@@ -1,0 +1,50 @@
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.exe.config
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.exe
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.pdb
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.AssemblyReference.cache
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Form1.resources
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Properties.Resources.resources
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.GenerateResource.cache
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.exe
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.pdb
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Odeljenje.resources
+C:\Users\Djape Kralj\source\repos\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Osoba.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.exe.config
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.exe
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.pdb
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.AssemblyReference.cache
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Form1.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Odeljenje.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Osoba.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Properties.Resources.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.skolskaGodina.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.GenerateResource.cache
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.exe
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.pdb
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Smer.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Predmet.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Upisnica.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Raspodela.resources
+C:\Users\Djape Kralj\Desktop\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Ocene.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.exe.config
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.exe
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\bin\Debug\EsDnevnik.pdb
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Form1.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Ocene.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Odeljenje.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Osoba.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Predmet.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Raspodela.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.skolskaGodina.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Smer.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.Upisnica.resources
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.exe
+C:\Users\Ucenik\Desktop\cigan123\EsDnevnik\EsDnevnik\obj\Debug\EsDnevnik.pdb
